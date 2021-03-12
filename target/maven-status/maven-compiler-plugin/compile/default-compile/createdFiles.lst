@@ -1,0 +1,7 @@
+com/hermann90/studentMS/configSwagger3/configSwagger.class
+com/hermann90/studentMS/dao/StudentRepository.class
+com/hermann90/studentMS/entities/Training.class
+com/hermann90/studentMS/dao/TrainingRepository.class
+com/hermann90/studentMS/entities/Student.class
+com/hermann90/studentMS/interfacesUtils/StudentsProjection.class
+com/hermann90/studentMS/StudentMsApplication.class
