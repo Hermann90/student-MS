@@ -21,6 +21,9 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 public interface StudentRepository 
         extends JpaRepository<Student, Long>{
     
+/**
+ * Une fonction foo
+ */
     public List<Student> findByfirstNameContains(String name);
     
     //this method is same wich findByfirstNameContains. but we are use the convention

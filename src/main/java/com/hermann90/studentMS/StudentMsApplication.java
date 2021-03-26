@@ -28,6 +28,16 @@ public class StudentMsApplication implements CommandLineRunner{
 		SpringApplication.run(StudentMsApplication.class, args);
 	}
 
+/**
+ * @file        exemple.h
+ * @brief       Contient la déclaration de la classe Exemple
+ * @details     La classe \c Exemple permet de montrer l'utilisation des \em tags \b Doxygen
+ * @author      Thierry vaira <thierr.vaira@gmail.com>
+ * @version     0.1
+ * @date        2020
+ * @copyright   GNU Public License.
+ */
+        
     @Override
     public void run(String... args) throws Exception {
         
